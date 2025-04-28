@@ -2,10 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://jfcaiado.dev/</loc>
+    <lastmod>2025-04-28T17:56:09-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://jfcaiado.dev/posts/oi/</loc>
+    <lastmod>2025-04-28T17:56:09-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://jfcaiado.dev/posts/</loc>
+    <lastmod>2025-04-28T17:56:09-03:00</lastmod>
+  </url><url>
+    <loc>https://jfcaiado.dev/categories/</loc>
+  </url><url>
+    <loc>https://jfcaiado.dev/tags/</loc>
   </url>
 </urlset>
