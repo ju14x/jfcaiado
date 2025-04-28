@@ -2,6 +2,10 @@ baseURL = 'https://jfcaiado.dev/'
 languageCode = 'en-us'
 title = 'jfcaiado.dev'
 
+[params.author]
+  name = 'ju14x'
+  email = 'jfcaiado@protonmail.com'
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
