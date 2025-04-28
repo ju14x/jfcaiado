@@ -103,7 +103,7 @@ params:
     hiddenInSingle: true
 
   editPost:
-    URL: https://github.com/ju14x/jfcaiado/content
+    URL: https://github.com/ju14x/jfcaiado/blob/main/content
     Text: Suggest Changes
     appendFilePath: true
 
