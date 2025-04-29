@@ -2,6 +2,7 @@
 date = '2025-04-28T17:56:09-03:00'
 draft = false
 title = 'oi!'
+tags = ['geral']
 +++
 
 

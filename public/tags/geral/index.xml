@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Geral on jfcaiado.dev</title>
+    <link>https://jfcaiado.dev/tags/geral/</link>
+    <description>Recent content in Geral on jfcaiado.dev</description>
+    <image>
+      <title>jfcaiado.dev</title>
+      <url>https://jfcaiado.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://jfcaiado.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>pt-BR</language>
+    <managingEditor>jfcaiado@protonmail.com (ju14x)</managingEditor>
+    <webMaster>jfcaiado@protonmail.com (ju14x)</webMaster>
+    <lastBuildDate>Mon, 28 Apr 2025 17:56:09 -0300</lastBuildDate>
+    <atom:link href="https://jfcaiado.dev/tags/geral/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>oi!</title>
+      <link>https://jfcaiado.dev/posts/oi/</link>
+      <pubDate>Mon, 28 Apr 2025 17:56:09 -0300</pubDate><author>jfcaiado@protonmail.com (ju14x)</author>
+      <guid>https://jfcaiado.dev/posts/oi/</guid>
+      <description>&lt;p&gt;Depois da comemoração de &lt;a href=&#34;https://youtu.be/IE8coapVoSk&#34;&gt;8 anos da live de python&lt;/a&gt;, me inspirei nos posts do &lt;a href=&#34;https://blog.dunossauro.com/posts/possua-seus-dados/&#34;&gt;dunossauro&lt;/a&gt; e do &lt;a href=&#34;https://www.ratamero.com/blog/ferramentas-para-fazer-seu-blog&#34;&gt;ratamero&lt;/a&gt; pra enfim criar um blog e começar a escrever, mesmo que poucas coisinhas.&lt;/p&gt;
+&lt;p&gt;E cá estou tentando, só pra contrariar minha tendência de procrastinar tudo que eu tenho vontade de fazer. 😎&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

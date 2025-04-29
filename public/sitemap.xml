@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jfcaiado.dev/tags/geral/</loc>
+    <lastmod>2025-04-28T17:56:09-03:00</lastmod>
+  </url><url>
     <loc>https://jfcaiado.dev/</loc>
     <lastmod>2025-04-28T17:56:09-03:00</lastmod>
   </url><url>
@@ -11,8 +14,9 @@
     <loc>https://jfcaiado.dev/posts/</loc>
     <lastmod>2025-04-28T17:56:09-03:00</lastmod>
   </url><url>
-    <loc>https://jfcaiado.dev/categories/</loc>
-  </url><url>
     <loc>https://jfcaiado.dev/tags/</loc>
+    <lastmod>2025-04-28T17:56:09-03:00</lastmod>
+  </url><url>
+    <loc>https://jfcaiado.dev/categories/</loc>
   </url>
 </urlset>
